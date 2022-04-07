@@ -77,6 +77,9 @@ video::-webkit-media-controls-enclosure {
     height: 35px;
     flex-shrink: 0;
 }
+
+/*This is where you can adjust the color of the audio player*/
+
 audio::-webkit-media-controls-panel, video::-webkit-media-controls-panel {
     display: flex;
     flex-direction: row;
